@@ -1,0 +1,19 @@
+# Escludere file temporanei di Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.suo
+*.user
+*.opensdf
+*.pdb
+*.exe
+*.dll
+*.log
+*.obj
+*.mp4
+*.zip
+*.rar
+*.tar.gz
