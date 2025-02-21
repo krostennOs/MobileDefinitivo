@@ -1,0 +1,3 @@
+repository "MobileDefinitivo@Super17@cloud"
+  path "/"
+    smartbranch "/main/SUCA"
